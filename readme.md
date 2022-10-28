@@ -1,4 +1,4 @@
-## **Jake Ritter**
+## **Jake Ritter | Resume**
 __________________
 
 ### **SUMMARY**
