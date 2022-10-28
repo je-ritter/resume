@@ -2,12 +2,10 @@
 __________________
 
 ### **SUMMARY**
-__________________
 
 Full Stack software engineer program. Developed front-end & back-end web applications using React JS, Django, Python & other languages/frameworks.
 
 ### **WORK EXPERIENCE**
-__________________
 
 #### Captain & Co. Real Estate LLC | Memphis, TN
 *Marketing Manager | Jan 2022 - May 2022*
@@ -30,7 +28,6 @@ __________________
 - Wrote and distributed mass texts, emails, and social posts to 2,500+ clients which resulted in a 20% increase in customer engagement.
 
 ### **EDUCATION**
-__________________
 
 #### Kickstart Coding | Remote
 *Full Stack Software Engineering Course | Jun 2022 - Oct 2022*
@@ -40,6 +37,5 @@ __________________
 *BS in Modern Music, Minor of Composition | 2014*
 
 ### **SKILLS & INTERESTS**
-__________________
 - *Skills*: React JS | JavaScript | Django| Python | HTML | CSS | Git | GitHub | Bash | Google Suite | Microsoft Office | Monday | Asana 
 - *Interests*: Reiki | Hiking | Fixing/Troubleshooting Computers | Composing Music | Gaming (Primarialy 90's/00's games)
