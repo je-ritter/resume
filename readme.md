@@ -3,7 +3,23 @@ __________________
 
 ### **SUMMARY**
 
-Full Stack software engineer program. Developed front-end & back-end web applications using React JS, Django, Python & other languages/frameworks.
+Ex-Marketing & Operations Manager with seven years of management experience transitioning into a Software Development role after completing Kickstart Coding Full Stack software engineer program. Developed front-end & back-end web applications using React, JavaScript, Django, Python & other languages/frameworks.
+__________________
+
+### **TECHNICAL SKILLS**
+
+* JavaScript ★★☆
+* HTML ★★☆
+* CSS ★★☆
+* React ★★☆
+* Django ★★☆
+* Bootstrap ★★☆
+* Git ★★☆
+* GitHub ★★☆
+* Node.js ★☆☆
+* Express.js ★☆☆
+* MongoDB ★☆☆
+* Bash ★☆☆
 __________________
 
 ### **WORK EXPERIENCE**
@@ -27,14 +43,15 @@ __________________
 - Wrote and distributed mass texts, emails, and social posts to 2,500+ clients which resulted in a 20% increase in customer engagement.
 __________________
 
+### **SKILLS**
+Asana | Monday | CRM Mangement | MacOS | Windows | Linux | Google Suite | Microsoft Office | Wordpress | Squarespace | Copy Writing/Editing | Vonage Business | Vonigo | Ixact Contact | VS Code 
+__________________
+
 ### **EDUCATION**
 
 #### Kickstart Coding | Remote
-*Full Stack Software Engineering Course | Jun 2022 - Oct 2022*
+*Full Stack Software Engineering Course | Completed*
 
 #### Visible Music College | Memphis, TN
-*BS in Modern Music, Minor of Composition | 2014*
+*BS in Modern Music, Minor of Composition | Completed*
 
-### **SKILLS & INTERESTS**
-- *Skills*: React JS | JavaScript | Django| Python | HTML | CSS | Git | GitHub | Bash | Google Suite | Microsoft Office | Monday | Asana 
-- *Interests*: Reiki | Hiking | Fixing/Troubleshooting Computers | Composing Music | Gaming (Primarialy 90's/00's games)
