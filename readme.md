@@ -3,7 +3,7 @@ __________________
 
 ### **SUMMARY**
 
-Ex-Marketing & Operations Manager with over seven years of management experience transitioning into a Software Development role after completing Kickstart Coding Ex-Marketing & Operations Manager with seven years of management experience transitioning into a Software Development role after completing Kickstart Coding Full Stack software engineer program. Developed front-end & back-end web applications using JavaScript, React, JavaScript, Django, Python & other languages/frameworks.
+Ex-Marketing & Operations Manager with over seven years of management experience transitioning into a Software Development role after completing Kickstart Coding Full Stack software engineer program. Developed front-end & back-end web applications using JavaScript, React, JavaScript, Django, Python & other languages/frameworks.
 __________________
 
 ### **TECHNICAL SKILLS**
