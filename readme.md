@@ -75,13 +75,13 @@ __________________
 ### **EDUCATION & CERTIFICATIONS**
 
 #### Certified Salesforce Administrator | In Progress
-- *Salesforce | Remote*
+*Salesforce | Remote*
 - *Learning how to solve business problems by customizing the Salesforce platform.*
 
 #### Full Stack Software Engineering Program | Completed
-- *Kickstart Coding | Remote*
+*Kickstart Coding | Remote*
 - *Built full stack web applications primariliy using HTML, CSS, JavaScript, React, Django, SQL, and Python.*
 
 #### Bachelors in Modern Music, Minor in Composition| Completed
-- *Visible Music College | Remote*
+*Visible Music College | Remote*
 
