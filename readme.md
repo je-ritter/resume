@@ -8,23 +8,23 @@ __________________
 
 ### **TECHNICAL SKILLS**
 
-* JavaScript ★★☆
-* HTML ★★☆
-* CSS ★★☆
-* React ★★☆
-* Django ★★☆
-* Bootstrap ★★☆
-* Git ★★☆
-* GitHub ★★☆
-* Node.js ★☆☆
-* Express.js ★☆☆
-* MongoDB ★☆☆
-* Bash ★☆☆
+* Bash
+* Bootstrap
+* CSS
+* Git
+* GitHub
+* HTML
+* JavaScript
+* MongoDB
+* Node / Express
+* Python / Django
+* React
+* SQL
 __________________
 
 ### **Project Experience**
 
-#### [Weather Web App](https://github.com/je-ritter/weatherAQI_Covid) *(in progress)*
+#### [Weather Web App](https://github.com/je-ritter/weatherAQI_Covid)
 *Remote | Dec 2022*
 - Building a web which pulls Weather, Air, and COVID data.
 - Utilizing open source weather, air, and COVID REST APIs in JSON to create a web app which displays local conditions.
@@ -33,17 +33,17 @@ __________________
 - Long term project currently focusing on the backend server and masking APIs using .ENV file.
 
 
-#### [Rogue-like](https://github.com/je-ritter/transcend) *(in progress)*
+#### [Rogue-like](https://github.com/je-ritter/transcend)
 *Remote | Nov 2022*
 - Built a rogue-like game primarily using Rot.js, JavaScript, and HTML.
 - Currently working on expanding the build and story line.
 
-#### [Bye Bricks](https://github.com/je-ritter/bye_bricks) *(in progress)*
+#### [Bye Bricks](https://github.com/je-ritter/bye_bricks)
 *Remote | Oct 2022*
 - Created using MicroPython and Thumby API.
 - 8 bit style brick smash game designed to be playable on the world’s smallest playable handheld (Thumby).
 
-#### [GitHub Status](https://github.com/je-ritter/github_stats) *(in progress)*
+#### [GitHub Status](https://github.com/je-ritter/github_stats)
 *Remote | Sep 2022*
 - Django based dashboard for viewing stats about GitHub repositories.
 - Uses pygal to create charts while fetching GitHub API for users.
@@ -51,21 +51,21 @@ __________________
 
 ### **WORK EXPERIENCE**
 
-#### Captain & Co. Real Estate LLC | Memphis, TN
-*Marketing Manager | Jan 2022 - May 2022*
-- Project Managed complete website user experience audit which led to full ADA compliance.
-- Utilized Monday project management software to create clarity across a cross-functional team which resulted in a decrease in miscommunication by 20%.
-- Managed a team of 4 to create and execute social media strategy across Facebook, Instagram, LinkedIn, Pinterest, Yelp,  and Youtube., doubling organic reach on Instagram alone.
-- Coordinated monthly newsletters to over 2,000 clients/potential recruits, copy editing, ensuring timely delivery.
+#### Marketing & Operations Manager | Memphis, TN
+*Captain & Co. Real Estate, LLC | Jan 2022 - May 2022*
+- Ensured 100% ADA compliance of the company website through project managing a site audit utilizing WordPress and external tools.
+- Standardized and improved consistency across marketing materials, web content, and social media posts by developing the company's first brand guide and creating 50+ templates, increasing client engagement by 20%.
+- Coordinated monthly newsletters to over 2,500 clients by copy editing, ensuring timely delivery, and visually appealing layout, resulting in improved engagement and retention rates among our clients.
+- 100% increase in organic reach on Instagram after implementing a new posting schedule by identifying posting trends with Google Analytics and Meta Business suite.
 
-#### Captain & Co. Real Estate LLC | Memphis, TN
-*Executive Assistant | Oct 2020 - Dec 2021*
-- Developed relationships with over 20 vendors across industries from multimedia to construction, negotiating contracts, and increasing quality control. 
-- As project manager,  completed office construction within budget and ahead of schedule.
-- Frequently handled last-minute requests with little to no notice while remaining calm and flexible under pressure. Including gift delivery for clients to social media and website changes.
+#### Executive Assisant | Memphis, TN
+*Captain & Co. Real Estate, LLC | Oct 2020 - Dec 2021*
+- 20% improved company productivity by simplifying workflow and enhancing user experience through a redesign of the Project Management Board using Monday.com. 
+- Managed dynamic calendar of events and ad hoc requests with organization and attention to detail, successfully dlivering all tasks to a high standard while adapting to changing priorities and remaining calm under pressure.
+- Collaborated with IT vendors to identify and resolve any technical issues that arose, maintaining the functionality and integrity of the software for a team of 15.
 
-#### Aussie Pet Mobile | Memphis, TN
-*Operations Manager | Jul 2019 - Jun 2020*
+#### Operations Manager | Memphis, TN
+*AJul 2019 - Jun 2020*
 - Created & oversaw systems handling inventory, scheduling 1,000+ monthly phone consultations (utilizing Vonigo scheduling), training & on-boarding new hires, and managing media communications (through email, Facebook, Instagram, and Yelp). 
 - Managed the creation of on-boarding materials for new hires, which decreased the time needed to get new employees up-to-speed by 30%.
 - Wrote and distributed mass texts, emails, and social posts to 2,500+ clients which resulted in a 20% increase in customer engagement.
