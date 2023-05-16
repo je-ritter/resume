@@ -84,4 +84,6 @@ __________________
 
 #### Bachelors in Modern Music, Minor in Composition| Completed
 *Visible Music College | Remote*
+__________________
 
+*My complete experience and work history can be found on my [LinkedIn](https://www.linkedin.com/in/jake-ritter/)*
